@@ -1,1 +1,3 @@
-I run many notebooks on [Google Colab](https://colab.research.google.com/) from time to time. All these notebooks have different topics. So I decide to put them all in one GitHub repo.
+## OpenCV University - OpenCV Bootcamp
+
+This is course material for the opencv bootcamp course available at the [OpenCV University](https://courses.opencv.org/courses/course-v1:OpenCV+Bootcamp+CV0/course/)
